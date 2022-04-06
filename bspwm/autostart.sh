@@ -5,7 +5,8 @@ function run {
   then
     $@&
   fi
-}
+
+	}
 
 #Find out your monitor name with xrandr or arandr (save and you get this line)
 #xrandr --output VGA-1 --primary --mode 1360x768 --pos 0x0 --rotate normal
